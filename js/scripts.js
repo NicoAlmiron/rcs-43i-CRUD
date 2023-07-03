@@ -77,6 +77,7 @@ const crearProductos = (e) => {
 
     const item = new Producto(id, nombreProd, detalleProd, imgProd, precioProd);
 
+
     // const prod = {
     //         nombreProd,
     //         detalleProd,
